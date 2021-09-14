@@ -1,6 +1,6 @@
-#AAHIL-------CODING-----OO
+#AAHIL-------CODING-----
 
-import platform,
+import platform, os
 
 bit=platform.architecture()[0]
 
